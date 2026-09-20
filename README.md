@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./profile.png" alt="Ganeshan" width="100%">
+</p>
 # Hey, I'm Ganeshan 👋
 
 ### Full-Stack Developer | AI & Web Enthusiast 🚀
